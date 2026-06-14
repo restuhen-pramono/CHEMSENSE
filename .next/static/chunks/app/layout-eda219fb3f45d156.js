@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[177],{3475:(e,s,l)=>{Promise.resolve().then(l.t.bind(l,3673,23)),Promise.resolve().then(l.t.bind(l,6284,23))},3673:()=>{},6284:e=>{e.exports={style:{fontFamily:"'Lexend', 'Lexend Fallback'",fontStyle:"normal"},className:"__className_7511d4"}}},e=>{e.O(0,[523,441,255,358],()=>e(e.s=3475)),_N_E=e.O()}]);
