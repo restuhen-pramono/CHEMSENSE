@@ -95,8 +95,8 @@ export default function Footer() {
 
             <ul className="space-y-3 text-slate-600">
               <li>support@chemsense.id</li>
-              <li>Bandung, Indonesia</li>
-              <li>Universitas Pendidikan Indonesia</li>
+              <li>Yogyakarta, Indonesia</li>
+              <li>Universitas Negeri Yogyakarta</li>
             </ul>
           </div>
 
