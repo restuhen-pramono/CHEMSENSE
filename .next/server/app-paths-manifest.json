@@ -1,3 +1,7 @@
 {
+  "/api/latest/route": "app/api/latest/route.js",
+  "/api/rfid/route": "app/api/rfid/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
   "/page": "app/page.js"
 }
